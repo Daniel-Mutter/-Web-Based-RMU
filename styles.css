@@ -1,10 +1,10 @@
 :root {
-  --color-active: #a06ea0;
-  --color-primary: #e28cb1;
-  --color-background: #564f7d;
-  --color-background-light  : rgba(255, 255, 255, 0.1);
-  --color-primary-light: #d7d6da;
-  --color-white: #fff;
+  --color-active: #1e2adb;
+  --color-primary: #1e2adb;
+  --color-background: #1e2adb;
+  --color-background-light  : #000000;
+  --color-primary-light:#ffffff;
+  --color-white:#ffffff;
 }
 
 body {
